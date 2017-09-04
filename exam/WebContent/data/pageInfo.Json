@@ -1,0 +1,10 @@
+﻿{"currentPage":1,
+"models":[
+{"analysis":"我惠美如天仙！！！","answer":"我惠美如天仙！！！","checkState":"通过","choices":[{"content":"我惠美如天仙","correct":false,"id":312,"subject":null},{"content":"这是个测试哦","correct":false,"id":310,"subject":null},{"content":"大力抛售学姐股","correct":false,"id":313,"subject":null},{"content":"我惠美如天仙！！！","correct":true,"id":311,"subject":null}],"department":{"id":1,"name":"部门一"},"id":300,"paperSubjects":[],"stem":"先有圣人后有天","subjectLevel":{"id":1,"name":"难","realName":"难"},"subjectType":{"id":1,"name":"单选","realName":"单选"},"topic":{"department":{"id":1,"name":"部门一"},"id":1,"title":"知识点一"},"uploadTime":"2017-08-24","user":null},
+{"analysis":"百度呗","answer":"BCD","checkState":"未审核","choices":[{"content":"取消实体之间的非必要join","correct":true,"id":316,"subject":null},{"content":"设置FetchType.LAYZ","correct":true,"id":317,"subject":null},{"content":"使用DISTINCT_ROOT_ENTITY","correct":false,"id":314,"subject":null},{"content":"不管","correct":false,"id":315,"subject":null}],"department":{"id":2,"name":"部门二"},"id":301,"paperSubjects":[],"stem":"Hibernate Criteria 查询 出现重复实体，解决方法","subjectLevel":{"id":1,"name":"难","realName":"难"},"subjectType":{"id":2,"name":"多选","realName":"多选"},"topic":{"department":{"id":2,"name":"部门二"},"id":3,"title":"知识点三"},"uploadTime":"2017-08-24","user":null},
+{"analysis":"啦啦","answer":"如果直接按照字符串方式，或者，直接使用'2013-2-26 11:07:25',:\r\n必须指定日期格式，如下：\r\nto_date('2013-2-26 11:07:25' , 'yyyy-mm-dd hh24:mi:ss')  ","checkState":"未审核","choices":[],"department":{"id":1,"name":"部门一"},"id":304,"paperSubjects":[],"stem":"Oracle异常ORA-01861literal does not match format string（字符串格式不匹配）","subjectLevel":{"id":1,"name":"难","realName":"难"},"subjectType":{"id":3,"name":"简答","realName":"简答"},"topic":{"department":{"id":1,"name":"部门一"},"id":1,"title":"知识点一"},"uploadTime":"2017-08-24","user":null}],
+"offset":3,
+"pageCount":4,
+"pageNo":1,
+"pageSize":3,
+"totalCount":10}
